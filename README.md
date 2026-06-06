@@ -184,21 +184,14 @@ The final ensemble reduced validation error by approximately **41%** compared to
 
 ```text
 .
-├── data/
-│   └── dataset.csv
-│
-├── notebooks/
-│   └── iv_surface_production_notebook.ipynb
-│
-├── outputs/
-│   ├── filled_dataset_best.csv
-│   ├── submission_best.csv
-│   └── validation_summary.csv
-│
-├── reports/
-│   ├── research_report.md
-│   └── research_summary.json
-│
+PS-2-Finance-club/
+├── dataset.csv
+├── filled_dataset_best.csv
+├── iv_surface_production_notebook.ipynb
+├── research_report.md
+├── research_summary.json
+├── submission_best.csv
+├── validation_summary.csv
 └── README.md
 ```
 
